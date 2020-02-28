@@ -1,0 +1,6 @@
+C:\Users\Heliton\source\repos\Exercicio00-ContaBancaria\Exercicio00-ContaBancaria\bin\Debug\Exercicio00-ContaBancaria.exe.config
+C:\Users\Heliton\source\repos\Exercicio00-ContaBancaria\Exercicio00-ContaBancaria\bin\Debug\Exercicio00-ContaBancaria.exe
+C:\Users\Heliton\source\repos\Exercicio00-ContaBancaria\Exercicio00-ContaBancaria\bin\Debug\Exercicio00-ContaBancaria.pdb
+C:\Users\Heliton\source\repos\Exercicio00-ContaBancaria\Exercicio00-ContaBancaria\obj\Debug\Exercicio00-ContaBancaria.csprojAssemblyReference.cache
+C:\Users\Heliton\source\repos\Exercicio00-ContaBancaria\Exercicio00-ContaBancaria\obj\Debug\Exercicio00-ContaBancaria.exe
+C:\Users\Heliton\source\repos\Exercicio00-ContaBancaria\Exercicio00-ContaBancaria\obj\Debug\Exercicio00-ContaBancaria.pdb
